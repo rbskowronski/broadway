@@ -32,3 +32,10 @@ h3 {
 p {
   font-size: 14px;
 }
+
+
+.new_york {
+  background: url("../images/building.png");
+  font-weight: bold;
+  color: white;
+}
