@@ -16,3 +16,19 @@ body {
 .navigation a {
   font-size: 18px;
 }
+
+h2, h3 {
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 23px;
+}
+
+p {
+  font-size: 14px;
+}
