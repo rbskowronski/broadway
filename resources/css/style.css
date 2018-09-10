@@ -13,8 +13,9 @@ body {
   font-weight: bold;
 }
 
-.navigation a {
+a {
   font-size: 18px;
+  color: white;
 }
 
 h2, h3 {
@@ -38,4 +39,14 @@ p {
   background: url("../images/building.png");
   font-weight: bold;
   color: white;
+}
+
+.footer {
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
+
+.footer span {
+  font-size: 11px;
 }
